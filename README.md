@@ -1,0 +1,1 @@
+This is a basic website that demonstrates HTML syntax and the inclusion of a hypertext link.
